@@ -1,3 +1,4 @@
+CONF
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 AAAAAAAAAAAAAAAAAAAAAAAAA
 B!B!BB!B!B!B!BB!B!B!B!BB! b1 for real
